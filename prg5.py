@@ -1,0 +1,1 @@
+print("{0:}".format(int(10)))
